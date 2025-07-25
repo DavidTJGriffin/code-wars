@@ -13,8 +13,8 @@ All solutions are in Python, written with readability in mind.
 
 ## Optimizations
 
-I revisit problems to simplify logic and explore cleaner solutions. Clarity over cleverness.
+I revisit problems to simplify logic and explore cleaner and more optimized solutions. Clarity over cleverness.
 
 ## Lessons Learned
 
-There’s always more than one way to solve a problem. Even simple challenges teach me new ways to think.
+There’s always more than one way to solve a problem. Even simple challenges teach me new ways to think. I tend to initially approach problems with a brute force approach. I am working on building proficiency with algorithmic patterns in order to produce more optimized solutions. I am building an increasing pattern matching perception in terms of problem solving. 
